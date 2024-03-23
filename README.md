@@ -14,11 +14,11 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/MalikExperts/MR-MALIK-MD/fork">
+  <a href="https://github.com/Yassine-67/essaouidi-md/fork">
     <img src="https://img.shields.io/github/forks/MalikExperts/MR-MALIK-MD?label=Forks&style=social">
     
     
-  <a href="https://github.com/MalikExperts/MR-MALIK-MD/stargazers">
+  <a href="https://github.com/Yassine-67/essaouidi-md/stargazers">
     <img src="https://img.shields.io/github/stars/MalikExperts/MR-MALIK-MD?style=social">
   </a>
   <br><br>
@@ -51,7 +51,7 @@
 
 1. Must Fork This Repo Before Deployment !
    <br> 
-<a href="https://github.com/MalikExperts/MR-MALIK-MD/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Yassine-67/essaouidi-md/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 ### SCAN QR
@@ -71,7 +71,7 @@
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/MalikExperts/MR-MALIK-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/Yassine-67/essaouidi-md">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
     </br>
@@ -133,7 +133,7 @@
 
 
 
-[![Essaouidi](https://ghttps://github.com/Nasrullahmalikithub.com/Nasrullahmalik.png)](https://github.com/Nasrullahmalik)  | [![Awais Malik](https://github.com/awaiskmalik.png)](https://github.com/awaiskamlik) |
+[![Essaouidi](https://ghttps://github.com/Nasrullahmalikithub.com/Nasrullahmalik.png)](https://github.com/Yassine-67)  | [![Awais Essaouidi](https://github.com/awaiskmalik.png)](https://github.com/awaiskamlik) |
 |----|----|
-[Nasrullah Khan](https://github.com/Nasrullahmalik)  | [Awais Malik](https://github.com/awaiskmalik) | 
+[Essaouidi Yassine](https://github.com/Yassine-67)  | [Awais Essaouidi](https://github.com/Yassine-67) | 
 Owner, Main Developer, Maintainer, Dubugger, Support Developer | Owner, Co-Developer, Co-Maintainer, Support Developer
